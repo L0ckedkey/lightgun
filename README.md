@@ -5,7 +5,7 @@ Menggerakkan kursor mouse di Windows dengan cara mengarahkan LED hijau (misalnya
 Cocok untuk game bergaya *Time Crisis* atau aplikasi apa pun yang dikontrol dengan mouse.
 
 DEMO:
-https://drive.google.com/file/d/1l-j-1qDJxuIBmlE7CAnpngq-3EjkSaxG/view?usp=sharing
+https://youtu.be/C12e1K9_5as
 
 ---
 
